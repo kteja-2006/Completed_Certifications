@@ -30,4 +30,4 @@ _B.Sc Data Science_
 I use the **raw image links** from this repository to embed certificate previews directly into my portfolio:
 
 ```html
-<img src="https://raw.githubusercontent.com/your-username/completed_certificates/main/python_certificate.jpg" alt="Python Certificate">
+<img src="https://raw.githubusercontent.com/kteja-2006/Completed_Certifications/blob/main/jpg%20certificates/c_coding_college.jpg" alt="Python Certificate">
