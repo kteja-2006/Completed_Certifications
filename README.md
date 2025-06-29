@@ -16,20 +16,6 @@ All certificate images are stored inside this repo and used as direct links in m
 
 ---
 
-## 📜 Certificates Included
-
-- Python Programming  
-- Web Development  
-- Data Science  
-- Artificial Intelligence and Machine Learning  
-- Power BI  
-- Git & GitHub  
-
-
-> *(More will be added as I complete new courses)*
-
----
-
 ## 🧑‍💻 Maintained By
 
 **K Teja**  
