@@ -1,18 +1,42 @@
-# 🏆 Completed Certificates Repository
+# 🏆 Completed Certifications
 
-This repository contains all the certifications I’ve earned through various online platforms, training programs, and academic courses. These certificates represent my continuous learning journey and skill development in the fields of technology and data science.
+This repository contains a collection of certifications I’ve earned through various online platforms and academic programs. These certificates reflect my progress in technical skills, business understanding, and overall career development.
 
 ---
 
-## 📂 About This Repo
+## 📚 Certifications List
 
-This repository is created to:
+### 💻 Programming & Technology
 
-- Centralize all my certificates in one place  
-- Keep my main portfolio clean and lightweight  
-- Easily display certification images on my personal portfolio via GitHub-hosted links
+- C Programming – Coding College  
+- Cisco – C Certificate  
+- Cisco – Python Essentials 1  
+- Cisco – Python Essentials 2  
+- Infosys – Python Programming  
+- Infosys – Introduction to Tableau  
+- Infosys – Introduction to Generative AI  
 
-All certificate images are stored inside this repo and used as direct links in my [Portfolio Website](https://your-portfolio-link.com).
+---
+
+### 📈 Business & Communication
+
+- edX – Business Writing  
+- LinkedIn – Introduction to Career Skills in Software Development  
+- Typing Speed Test – 44 WPM, 99% Accuracy  
+
+---
+
+### 🧠 Virtual Internship Experience (Forage)
+
+- Accenture – Project Management  
+- Deloitte – Data Analytics  
+- Tata – Data Visualization & Business Insights  
+
+---
+
+### 🎓 Others
+
+- Ulearn – Completion Certificate  
 
 ---
 
@@ -25,9 +49,7 @@ _B.Sc Data Science_
 
 ---
 
-## 🔗 Usage in Portfolio
+## 📌 Note
 
-I use the **raw image links** from this repository to embed certificate previews directly into my portfolio:
-
-```html
-<img src="https://raw.githubusercontent.com/kteja-2006/Completed_Certifications/blob/main/jpg%20certificates/c_coding_college.jpg" alt="Python Certificate">
+This repository is used for academic and personal portfolio purposes only.  
+All certifications belong to their respective issuing platforms and organizations.
