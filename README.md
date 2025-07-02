@@ -15,7 +15,8 @@ This repository contains a collection of certifications I’ve earned through va
 - Infosys – Python Programming  
 - Infosys – Introduction to Tableau  
 - Infosys – Introduction to Generative AI  
-
+- HackerRank - Python (Basics)
+- HackerRank - SQL (Basics)
 ---
 
 ### 📈 Business & Communication
